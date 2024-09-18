@@ -1,0 +1,10 @@
+.amount-display {
+    margin-top: 10px;
+}
+
+.start-amount, .end-amount {
+    font-size: 18px;
+    font-weight: bold;
+    color: #141414; /* Зеленый цвет */
+    margin: 0 10px;
+}
